@@ -1,0 +1,479 @@
+{
+  "version": "1.0.0",
+  "description": "Country-level entities included in Lukartveli's world geography dataset."
+  "last_updated": "2026-08-21",
+  "country_count": 197,
+  "countries": {
+    "AFG": {
+    "name": "Afghanistan",
+    "official_name": "Islamic Emirate of Afghanistan",
+    "status": "un_member",
+    "iso_alpha_2": "AF",
+    "iso_alpha_3": "AFG",
+    "iso_numeric": 4
+    },
+    "ALB": {
+      "name": "Albania",
+      "official_name": "Republic of Albania",
+      "status": "un_member",
+      "iso_alpha_2": "AL",
+      "iso_alpha_3": "ALB",
+      "iso_numeric": 8
+    },
+    "DZA": {
+      "name": "Algeria",
+      "official_name": "People's Democratic Republic of Algeria",
+      "status": "un_member",
+      "iso_alpha_2": "DZ",
+      "iso-alpha_3": "DZA",
+      "iso_numeric": 12
+    },
+    "AND": {
+      "name": "Andorra",
+      "official_name": "Principality of Andorra",
+      "status": "un_member",
+      "iso_alpha_2": "AD",
+      "iso-alpha_3": "AND",
+      "iso_numeric": 20
+    },
+    "AGO": {
+      "name": "Angola",
+      "official_name": "Republic of Angola",
+      "status": "un_member",
+      "iso_alpha_2": "AO",
+      "iso-alpha_3": "AGO",
+      "iso_numeric": 24
+    },
+    "ATG": {
+      "name": "Antigua and Barbuda",
+      "official_name": "Antigua and Barbuda",
+      "status": "un_member",
+      "iso_alpha_2": "AG",
+      "iso-alpha_3": "ATG",
+      "iso_numeric": 28
+    },
+    "ARG": {
+      "name": "Argentina",
+      "official_name": "Argentine Republic",
+      "status": "un_member",
+      "iso_alpha_2": "AR",
+      "iso-alpha_3": "ARG",
+      "iso_numeric": 32
+    },
+    "ARM": {
+      "name": "Armenia",
+      "official_name": "Republic of Armenia",
+      "status": "un_member",
+      "iso_alpha_2": "AM",
+      "iso-alpha_3": "ARM",
+      "iso_numeric": 51
+    },
+    "AUS": {
+      "name": "Australia",
+      "official_name": "Commonwealth of Australia",
+      "status": "un_member",
+      "iso_alpha_2": "AU",
+      "iso-alpha_3": "AUS",
+      "iso_numeric": 36
+    },
+    "AUT": {
+      "name": "Austria",
+      "official_name": "Republic of Austria",
+      "status": "un_member",
+      "iso_alpha_2": "AT",
+      "iso-alpha_3": "AUT",
+      "iso_numeric": 40
+    },
+    "AZE": {
+      "name": "Azerbaijan",
+      "official_name": "Republic of Azerbaijan",
+      "status": "un_member",
+      "iso_alpha_2": "AZ",
+      "iso-alpha_3": "AZE",
+      "iso_numeric": 31
+    },
+    "BHS": {
+      "name": "BS",
+      "official_name": "Commonwealth of The Bahamas",
+      "status": "un_member",
+      "iso_alpha_2": "BS",
+      "iso-alpha_3": "BHS",
+      "iso_numeric": 44
+    },
+    "BHR": {
+      "name": "Bahrain",
+      "official_name": "Kingdom of Bahrain",
+      "status": "un_member",
+      "iso_alpha_2": "BH",
+      "iso-alpha_3": "BHR",
+      "iso_numeric": 48
+    },
+    "BGD": {
+      "name": "Bangladesh",
+      "official_name": "People's Republic of Bangladesh",
+      "status": "un_member",
+      "iso_alpha_2": "BD",
+      "iso-alpha_3": "BGD",
+      "iso_numeric": 50
+    },
+    "BRB": {
+      "name": "Barbados",
+      "official_name": "Barbados",
+      "status": "un_member",
+      "iso_alpha_2": "BB",
+      "iso-alpha_3": "BRB",
+      "iso_numeric": 52
+    },
+    "BLR": {
+      "name": "Belarus",
+      "official_name": "Republic of Belarus",
+      "status": "un_member",
+      "iso_alpha_2": "BY",
+      "iso-alpha_3": "BLR",
+      "iso_numeric": 112
+    },
+    "BEL": {
+      "name": "Belgium",
+      "official_name": "Kingdom of Belgium",
+      "status": "un_member",
+      "iso_alpha_2": "BE",
+      "iso-alpha_3": "BEL",
+      "iso_numeric": 56
+    },
+    "BLZ": {
+      "name": "Belize",
+      "official_name": "Belize",
+      "status": "un_member",
+      "iso_alpha_2": "BZ",
+      "iso-alpha_3": "BLZ",
+      "iso_numeric": 84
+    },
+    "BEN": {
+      "name": "Benin",
+      "official_name": "Republic of Benin",
+      "status": "un_member",
+      "iso_alpha_2": "BJ",
+      "iso-alpha_3": "BEN",
+      "iso_numeric": 204
+    },
+    "BTN": {
+      "name": "Bhutan",
+      "official_name": "Kingdom of Bhutan",
+      "status": "un_member",
+      "iso_alpha_2": "BT",
+      "iso-alpha_3": "BTN",
+      "iso_numeric": 64
+    },
+    "BOl": {
+      "name": "Bolivia",
+      "official_name": "Plurinational State of Bolivia",
+      "status": "un_member",
+      "iso_alpha_2": "BO",
+      "iso-alpha_3": "BOL",
+      "iso_numeric": 68
+    },
+    "BIH": {
+      "name": "Bosnia and Herzegovina",
+      "official_name": "Bosnia and Herzegovina",
+      "status": "un_member",
+      "iso_alpha_2": "BA",
+      "iso-alpha_3": "BIH",
+      "iso_numeric": 70
+    },
+    "BWA": {
+      "name": "Botswana",
+      "official_name": "Republic of Botswana",
+      "status": "un_member",
+      "iso_alpha_2": "BW",
+      "iso-alpha_3": "BWA",
+      "iso_numeric": 72
+    },
+    "BRA": {
+      "name": "Brazil",
+      "official_name": "Federative Republic of Brazil",
+      "status": "un_member",
+      "iso_alpha_2": "BR",
+      "iso-alpha_3": "BRA",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    "": {
+      "name": "",
+      "official_name": "",
+      "status": "un_member",
+      "iso_alpha_2": "",
+      "iso-alpha_3": "",
+      "iso_numeric": 
+    },
+    
