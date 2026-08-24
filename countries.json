@@ -194,31 +194,31 @@
       "status": "un_member",
       "iso_alpha_2": "BR",
       "iso-alpha_3": "BRA",
-      "iso_numeric": 
+      "iso_numeric": 76
     },
-    "": {
-      "name": "",
-      "official_name": "",
+    "BRN": {
+      "name": "Brunei",
+      "official_name": "Brunei Darussalam",
       "status": "un_member",
-      "iso_alpha_2": "",
-      "iso-alpha_3": "",
-      "iso_numeric": 
+      "iso_alpha_2": "BN",
+      "iso-alpha_3": "BRN",
+      "iso_numeric": 96
     },
-    "": {
-      "name": "",
-      "official_name": "",
+    "BGR": {
+      "name": "Bulgaria",
+      "official_name": "Republic of Bulgaria",
       "status": "un_member",
-      "iso_alpha_2": "",
-      "iso-alpha_3": "",
-      "iso_numeric": 
+      "iso_alpha_2": "BG",
+      "iso-alpha_3": "BGR",
+      "iso_numeric": 100
     },
-    "": {
-      "name": "",
-      "official_name": "",
+    "BFA": {
+      "name": "Burkina Faso",
+      "official_name": "Burkina Faso",
       "status": "un_member",
-      "iso_alpha_2": "",
-      "iso-alpha_3": "",
-      "iso_numeric": 
+      "iso_alpha_2": "BF",
+      "iso-alpha_3": "BFA",
+      "iso_numeric": 854
     },
     "": {
       "name": "",
